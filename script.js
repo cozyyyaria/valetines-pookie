@@ -1,8 +1,8 @@
 const images = [
-    "photos/valentine1.jpg",
-    "photos/valentine2.jpg",
-    "photos/valentine3.jpg",
-    "photos/valentine4.jpg"
+    "valentine1.JPG",
+    "valentine2.JPG",
+    "valentine3.JPG",
+    "valentine4.JPG"
 ];
 
 const questions = [
